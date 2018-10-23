@@ -1,0 +1,12 @@
+{
+  "name" : "youtrack-workflow-telegram-notifications",
+  "title" : "TelegramNotifications",
+  "description" : "Enable notifications in Telegram from Youtrack",
+  "dependencies" : {
+    "@jetbrains/youtrack-scripting-api" : "^2018.3.46358"
+  },
+  "youtrack" : {
+    "autoAttached" : true,
+    "readOnly" : false
+  }
+}
