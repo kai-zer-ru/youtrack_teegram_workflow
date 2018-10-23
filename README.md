@@ -1,8 +1,6 @@
 # youtrack_teegram_workflow
 
-YouTrack workflow for send notify to Telegram
-
-To enable notifications in Telegram, edit slack notifications script
+Для активации уведомлений в Телеграм я заменил код скрипта `@jetbrains/youtrack-workflow-slack-notifications-simple` на свой
 
 
 ```javascript
